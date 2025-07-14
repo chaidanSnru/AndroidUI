@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidUI</string>
+    <string name="constrain_layout">Constrain Layout</string>
 </resources>
