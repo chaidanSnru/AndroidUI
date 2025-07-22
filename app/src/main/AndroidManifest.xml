@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidUI">
         <activity
+            android:name=".LinearLayout_essens"
+            android:exported="false" />
+        <activity
+            android:name=".LinearLayout_weight"
+            android:exported="false" />
+        <activity
             android:name=".LinearLayout"
             android:exported="true">
             <intent-filter>
