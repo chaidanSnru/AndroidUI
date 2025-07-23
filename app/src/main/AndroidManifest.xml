@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidUI">
         <activity
+            android:name=".RelativeLayout_Examp"
+            android:exported="false" />
+        <activity
+            android:name=".RelativeLayout_Essent"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
